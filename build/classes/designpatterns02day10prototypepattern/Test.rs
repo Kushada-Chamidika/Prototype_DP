@@ -1,0 +1,2 @@
+designpatterns02day10prototypepattern.Test
+designpatterns02day10prototypepattern.A
